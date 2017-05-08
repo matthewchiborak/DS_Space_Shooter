@@ -1,0 +1,1 @@
+space.o: space.s
